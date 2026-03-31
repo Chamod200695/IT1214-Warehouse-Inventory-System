@@ -11,7 +11,7 @@ It allows users to add new items, view all items in stock, update stock quantiti
 
 ## Sample Output
 1.Welcome to Warehouse Inventory System
-2.IT1214 - Course Project
+2.IT1214 - Course Project.
 3.What would you like to do today?
 4.Add a new item to inventory
 5.View all items in stock
